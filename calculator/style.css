@@ -1,0 +1,39 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+
+
+  
+}
+
+button{
+  
+  align-items: center;
+  width: 45px;
+  color: blueviolet;
+  font-size: 30px;
+  height: 45px;
+  border-radius: 10px;
+  margin-left: 2px;
+}
+
+input{
+  width: 200px;
+  height: 30px;
+  border-radius: 30px;
+  font-size: large;
+  margin-bottom: 10px;
+}
+table{
+  background-color: pink;
+}
+
+  
+
+
+
+
+
